@@ -1,0 +1,29 @@
+{
+  "name": "first-sample",
+  "version": "0.0.1",
+  "description": "a simple rest web service ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omMora/firstSample.git"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "omMora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omMora/firstSample/issues"
+  },
+  "homepage": "https://github.com/omMora/firstSample#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.8",
+    "morgan": "^1.7.0"
+  }
+}
